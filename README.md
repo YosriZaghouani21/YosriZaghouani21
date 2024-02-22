@@ -1,21 +1,17 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Yosri</h1></summary>
+    <summary><h1 style="display: inline-block">Howdy! 👋 I'm Yosri - Juggling as a Maestro  </h1></summary>
   </ul>
 </div>
 
+  <!-- Check out my repos to embark on a rollercoaster ride through my coding escapades! 🚀 -->
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -26,16 +22,13 @@
 
 
 <!--Intro start-->  
-- 🔭 I’m currently working on Swift, Android, ReactJS, NodeJS , MongoDB , ExpressJS , Dart , flutter ... 
-- 🌱 I'm currently broadening my expertise in **various programming languages, tools, and technologies, to keep up with the fast-paced and constantly evolving landscape of software development.**
-
-- ☁️ I've keen interest in mobile dev. So,I'm learning **Swift , Android and Flutter**
-
-- 📝 I regularly post content on [Instgram](https://www.instagram.com/landcruiseroftunisia/)
-
-- 💬 Ask me about **Java , SQL , Android , IOS , Flutter, react , nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **zaghouani.yosri@gmail.com**
+- 🔭 I’m currently working on building robust and scalable solutions as a DevOps Engineer and diving into Fullstack development. 
+- 🌱 I'm continuously broadening my expertise in various programming languages, tools, and technologies to keep up with the fast-paced and constantly evolving landscape of software development.
+- ☁️ I have a keen interest in platform engineering and Devops, currently learning Ansible, Terraform, AWS , GCP , Azure , REHL , Linux and many tools ...
+- 💻 Actively involved in crafting an Identity Provider (IDP) and Platform Engineering solutions.
+- 📝 I regularly share insights on [Instagram](https://www.instagram.com/landcruiseroftunisia/).
+- 💬 Ask me about anything i might help you , who knows?.
+- 📫 Feel free to reach me at **zaghouani.yosri@gmail.com**
 
 <!--Intro end-->
 
@@ -70,7 +63,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,docker,express,figma,firebase,github,html,java,js,kotlin,linux,materialui,mongodb,mysql,nodejs,postman,py,react,redux,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,ansible,heroku,c,terraform,aws,gcp,docker,kubernetes,ruby,azure,express,bash,figma,redhat,firebase,github,git,html,java,js,kotlin,linux,mongodb,mysql,grafana,nodejs,postman,py,react,redux,jenkins,babel,vscode&perline=14" />
   </a>
 </p>
 
