@@ -39,14 +39,15 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=YosriZaghouani&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=YosriZaghouani21&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" />
+
   <br></br>
-  <img  title="🔥" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YosriZaghouani&theme=tokyonight&hide_border=false" /> 
+  <img  title="🔥" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YosriZaghouani21&theme=vue-dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosriZaghouani&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosriZaghouani21&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
   
   </td>
 </tr>
