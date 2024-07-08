@@ -25,7 +25,7 @@
 - 🔭 I’m currently working on building robust and scalable solutions as a DevOps Engineer and diving into Fullstack development. 
 - 🌱 I'm continuously broadening my expertise in various programming languages, tools, and technologies to keep up with the fast-paced and constantly evolving landscape of software development.
 - ☁️ I have a keen interest in platform engineering and Devops, currently learning Ansible, Terraform, AWS , GCP , Azure , Linux  ...
-- 💻 Actively involved in crafting an Identity Provider (IDP) and Platform Engineering solutions.
+- 💻 Actively involved in crafting an Internal developer platform (IDP) and Platform Engineering solutions.
 - 📝 I regularly share insights on [Instagram](https://www.instagram.com/landcruiseroftunisia/).
 - 💬 Ask me about anything i might help you , who knows?.
 - 📫 Feel free to reach me at **zaghouani.yosri@gmail.com**
